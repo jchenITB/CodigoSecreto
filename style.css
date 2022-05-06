@@ -121,3 +121,25 @@ button:hover, button:focus{
     background-color: black;    
     cursor: pointer;
 }
+
+.hide{
+    display: none;
+}
+
+.win{
+    border-color: green;
+    background-color: green;
+}
+
+.lose{
+    border-color: gray;
+    background-color: gray;
+}
+
+.correct{
+    background-color: lightgreen;
+}
+
+.exists{
+    background-color: orange;
+}
